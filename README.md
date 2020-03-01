@@ -13,5 +13,5 @@ The orginal data can be found in train.csv from which only texts have been extra
 
 # How to run
 
-Please check fakeOr
+Please check fakeorNotfake_bert.ipynb script.
 
