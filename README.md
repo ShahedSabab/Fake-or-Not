@@ -3,8 +3,8 @@ The dataset includes tweets about disaster e.g., earthquake, wildfire. The objec
 
 • Tensorflow 2.0 is used.<br/>
 • The model is trained in google colab.<br/>
-• BERT-base is used for training.<br/>
-• Dropout layer and L1 regularization have been applied to reduce overfitting.<br/>
+• BERT-large (24 layer, 1024 hidden, 16 heads) is used for training.<br/>
+• Dropout layer and L2 regularization have been applied to reduce overfitting.<br/>
 • 84.5% accuracy is achieved.<br/>
 
 # Preprocessing
