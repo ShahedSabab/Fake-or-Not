@@ -7,3 +7,11 @@ The dataset includes tweets about disaster e.g., earthquake, wildfire. The objec
 • Dropout layer and L1 regularization have been applied to reduce overfitting.<br/>
 • 84.5% accuracy is achieved.<br/>
 
+# Preprocessing
+
+The orginal data can be found in train.csv from which only texts have been extracted (in data_train.csv) using preprocess.py script.
+
+# How to run
+
+Please check fakeOr
+
