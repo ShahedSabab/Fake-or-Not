@@ -8,11 +8,13 @@ The following models have been developed for training:<br>
 • BERT [BERT-large 24 layer, 1024 hidden, 16 heads] (accuracy 89%)<br>
 <br>
 # Performance
+Word Impotance based on Logistic Regression:<br>
 ![](wordImportance.PNG)
 ![](bow.PNG)
 ![](tf-idf.PNG)
 ![](lstm.PNG)
 ![](bert.PNG)
+![](performance_all.PNG)
 
 # How to run
 Please check realOrFake.ipynb script.
