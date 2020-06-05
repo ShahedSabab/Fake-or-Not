@@ -14,7 +14,7 @@ Word Impotance based on Logistic Regression:<br>
 ![](tf-idf.PNG)
 ![](lstm.PNG)
 ![](bert.PNG)
-![](performance_all.PNG)
+<img align="left" width="100" height="100" src="performance_all.PNG">
 
 # How to run
 Please check realOrFake.ipynb script.
