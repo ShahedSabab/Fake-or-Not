@@ -1,5 +1,5 @@
 # Fake-or-Real
-The dataset includes tweets about disasters, e.g., earthquake, wildfire. The objective is to detect if the tweet is about a real disaster vs. fake disaster. Different approaches have been performed for data cleaning and training the model. The best model can predict real vs. fake tweets with 89% accuracy using transfer learning (BERT).
+Fake-or-Real is a popular challenge in Kaggle. The dataset includes tweets about disasters, e.g., earthquake, wildfire. The objective is to detect if the tweet is about a real disaster vs. fake disaster. Different approaches have been performed for data cleaning and training the model. The best model can predict real vs. fake tweets with 89% accuracy using transfer learning (BERT).
 
 The following models have been developed for training:<br>
 • BOW Model with Logistic Regression. (accuracy 77%)<br>
